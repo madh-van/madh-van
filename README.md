@@ -1,10 +1,10 @@
+# 👋 Hi there, I'm Madhavan  
 
-# Hi there :wave: I'm Madhavan  
+  - 💭 A deep learner; who is addicted to learning and growing every day.
+  - ✍️ I am currently sharing a little bit of my knowledge through [my blogs](https://madh-van.github.io/)
+  - 📫 Watnt to reach out? email me at madhavan.make at gmail.com
 
-  - A deep learner; who is addicted to learning and growing every day
-  - I am currently sharing a little bit of my knowledge to the :earth_africa: through [my blogs](https://madh-van.github.io/)
-
- Below are the areas I am passionate about;
+## Below are the areas I am passionate about;
 
   - **Artificial Intelligence**
     - Build  Machine Learning Models *(across its entire life-cycle)* using
@@ -22,14 +22,3 @@
     - Emacs evangelist.
     - Guix system (Reproducable environment).
 
-<!---
-madh-van/madh-van is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 👋 Hi, I’m @madh-van
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
---->

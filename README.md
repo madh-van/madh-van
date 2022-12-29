@@ -9,8 +9,7 @@
   - **Artificial Intelligence**
     - Build  Machine Learning Models *(across its entire life-cycle)* using
       Mlflow, Tensorflow, Pytorch, Sklearn, Keras
-    - Exploratory Data Analysis - Data modeling -
-	- Design - Protyping - Test Deeplearning Models (Training - Validation - Deployment)
+    - Exploratory Data Analysis - Data modeling - Design - Prototyping - Test Deeplearning Models (Training - Validation - Deployment)
     - Image Processing, Computer Vision, Machine Learning, Deep
       Learning, Reinforcement Learning.
   - **SW development**
